@@ -1,0 +1,10 @@
+# Node modules
+frontend/node_modules/
+# IntelliJ + VS Code
+.idea/
+.vscode/
+# Mac + System files
+.DS_Store
+# Java + Build files
+*.log
+target/
